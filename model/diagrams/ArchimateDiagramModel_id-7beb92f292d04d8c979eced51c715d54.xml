@@ -795,7 +795,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-4ba8313140c041cda35bde214a64e277"
       textAlignment="1"
-      content="WHO? KATSETUS">
+      content="WHO? ">
     <bounds
         x="180"
         y="41"
@@ -806,7 +806,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-b3eb61c391c44182b20f7b1d388127e7"
       textAlignment="1"
-      content="WHY? katse2">
+      content="WHY?&#xA;">
     <bounds
         x="180"
         y="144"
